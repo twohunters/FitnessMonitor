@@ -3,17 +3,14 @@
 
 ## Description
 
-text goes here
+Fitness Monitor is a webapp created to track daily fitness activities. The user can enter in the name, type, duration, distance, weight, sets, reps, and other aspects of their workouts.
 
 
 ## Installation
 
 Type the following into your terminal or command line to copy this repository: `git clone git@github.com:twohunters/FitnessMonitor.git`
 
-
-## Usage
-
-text goes here
+Visit the deployed project on Heroku [here](https://fathomless-gorge-77145.herokuapp.com/).
 
 
 ## Credits
